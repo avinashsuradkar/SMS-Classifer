@@ -92,8 +92,7 @@ streamlit run app.py
 <h2>📧 Contact</h2>
 <ul>
     <li><strong>Author:</strong> Avinash</li>
-    <li><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/yourprofile" target="_blank">github.com/yourprofile</a></li>
+    <li><strong>Email:</strong> <a href="mailto:avinashsuradkar4444@gmail.com">your-email@example.com</a></li>
 </ul>
 
 </body>
